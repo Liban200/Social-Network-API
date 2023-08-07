@@ -1,6 +1,5 @@
 # Social Network API
-
-This project is part of the "18 NoSQL: Social Network API" challenge. The objective is to build an API for a social network web application that allows users to share their thoughts, react to friends' thoughts, and manage connections. The API will be built using Express.js for routing, MongoDB for the database, and the Mongoose ODM for data modeling. 
+ The objective is to build an API for a social network web application that allows users to share their thoughts, react to friends' thoughts, and manage connections. The API will be built using Express.js for routing, MongoDB for the database, and the Mongoose ODM for data modeling. 
 
 ## Table of Contents
 
