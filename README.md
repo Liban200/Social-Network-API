@@ -55,6 +55,7 @@ To run this project locally, follow these steps:
 To understand the functionality of the API and see it in action, watch the provided walkthrough video.
 
 [![Walkthrough Video](https://drive.google.com/file/d/1ZBYK9nILs7FLhHF5S0_UnlCGdZ5Yj76k/view)](https://drive.google.com/file/d/1ZBYK9nILs7FLhHF5S0_UnlCGdZ5Yj76k/view)
+[![Walkthrough Video Part 2](https://drive.google.com/file/d/1PlMF4Laqav-zmo64Fk607h8WHHqpG7j6/view)
 
 ## Credits 
 
